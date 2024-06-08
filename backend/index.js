@@ -23,7 +23,7 @@ app.post("/ProductInsertUpdate",ProducConttroller.ProductInsertUpdate)
 
 
 
-const port = process.env.PORT || 8000;
+const port = process.env.PORT || 10000;
 app.listen(port, () =>{ 
     console.log((`Example app listening on port ${port}!`))
   })
