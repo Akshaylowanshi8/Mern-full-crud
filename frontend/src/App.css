@@ -1,0 +1,23 @@
+a{
+
+  text-decoration: none;
+  margin: 20px;
+}
+body{
+display: flex;
+  justify-content: center;
+}
+table, td, th {
+  border: 2px solid black;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+ width:100%;
+}
+
+th {
+background-color: #c08e8e;
+  height: 70px;
+}
